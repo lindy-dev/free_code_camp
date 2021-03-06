@@ -1,0 +1,1 @@
+var myList = [["Vim", 1],["Rin", 2],["Colgate",2],["Excel",3],["Chocs", 3]];
